@@ -1,4 +1,4 @@
-# Hello, I'm [Yaw Osei Agyemang] 👋
+# Hello, I'm Yaw Osei Agyemang 👋
 
 ## About Me 🔨
 Innovative and results-oriented software engineer with 5+ years of experience in software design, implementation, and optimization, specializing in payment cryptography and application data security. Passionate about developing scalable and maintainable systems and mentoring teams for success.
