@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Yaw Osei Agyemang] 👋
 
 ## About Me 🔨
 Innovative and results-oriented software engineer with 5+ years of experience in software design, implementation, and optimization, specializing in payment cryptography and application data security. Passionate about developing scalable and maintainable systems and mentoring teams for success.
@@ -12,8 +12,8 @@ Innovative and results-oriented software engineer with 5+ years of experience in
 
 ## Projects 👨🏾‍💻
 Here are some of the projects I've worked on:
-- **Containerization Initiative:** Leading the transition to GCP and Azure for Point-to-Point Encryption services.
-- **Observability Tools Integration:** Implemented Dynatrace and Prometheus for advanced monitoring.
+- **Containerization Initiative:** TBD.
+- **Observability Tools Integration:** TBD.
 (Add actual links to your repositories or further descriptions if possible)
 
 ## Achievements 🏅
