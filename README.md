@@ -21,4 +21,4 @@ Here are some of the projects I've worked on:
 - Received the "Outstanding Contributor" award for excellence in documentation.
 
 ## Let's Connect
-Feel free to connect with me on [LinkedIn]([Your_LinkedIn_Profile](https://www.linkedin.com/in/yaw-a-78561a116/)https://www.linkedin.com/in/yaw-a-78561a116/).
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yaw-a-78561a116/].
