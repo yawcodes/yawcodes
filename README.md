@@ -1,9 +1,9 @@
 # Hello, I'm Yaw Osei Agyemang👋🏽
 
-## About Me 🔨
+## About Me 🤓
 Innovative and results-oriented software engineer with 5+ years of experience in software design, implementation, and optimization, specializing in payment cryptography and application data security. Passionate about developing scalable and maintainable systems and mentoring teams for success.
 
-## Technical Skills 🤓
+## Technical Skills 🔨
 - **Languages:** Java, Python, Gherkin, TypeScript, Swift
 - **Frameworks/Libraries:** Spring, Karate, Angular, Django
 - **Databases:** MySQL, Cassandra, PostgreSQL
