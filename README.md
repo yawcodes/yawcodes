@@ -12,8 +12,8 @@ Innovative and results-oriented software engineer with 5+ years of experience in
 
 ## Projects 👨🏾‍💻
 Here are some of the projects I've worked on:
-- **Containerization Initiative:** TBD.
-- **Observability Tools Integration:** TBD.
+- Spring boot application with Okta integration.
+- Spring boot application with login.gov integration.
 (Add actual links to your repositories or further descriptions if possible)
 
 ## Achievements 🏅
